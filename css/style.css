@@ -1,0 +1,91 @@
+
+*{
+	margin: 0;
+	padding: 0;
+  scroll-behavior: smooth;
+}
+.navbar-nav{
+	margin-right: 2rem;
+}
+.navbar-toggler{
+	margin-right: 2rem;
+}
+.navbar{
+	padding: 0;
+}
+
+.carousel-caption{
+background-color: rgba(0, 0, 0, 0.43);
+color: white;
+
+}
+#mar{
+	font-family: 'Playfair Display', serif;
+  border: 1px solid red;
+    overflow: hidden;
+}
+#bvg{
+  background-image:url('https://www.carlogos.org/car-logos/honda-civic-logo-1200x250.png');
+  background-position: center;
+  background-size:100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 12rem;
+    overflow: hidden;
+
+}
+
+#foo{
+	color: white;
+}
+#cpy{
+	color: white;
+}
+ .fab{
+        color: black!important;
+        font-size: 4rem;
+        padding: 2rem;
+      }
+      .fa-instagram:hover{
+        color: red !important;
+      }
+      .fa-youtube:hover{
+        color: red !important;
+      }
+     .fa-facebook-square:hover{
+      color: #4c61a8!important;
+     }
+     .fa-twitter:hover{
+      color: #30a1cf!important;
+     }
+
+     .li{
+     	font-size: 1rem;
+     	text-align: left;
+     }
+     .li a{
+      line-height: 2rem;
+     	text-decoration: none;
+      color: #30a1cf;
+
+     }
+     .li a:hover{
+      border-bottom: 1px solid red;
+
+     }
+  
+     
+.navbar li a:hover{
+    	color:red;
+		border-bottom:2px solid red;
+		transition: 4s ease;
+	     }
+.abt3{
+  text-align: left;
+}
+.btn:hover{
+  color: red!important;
+  background-color: white;
+  transition:.5s ease-out;
+  border: none;
+}
