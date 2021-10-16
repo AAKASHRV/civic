@@ -45,7 +45,7 @@ color: white;
  .fab{
         color: black!important;
         font-size: 4rem;
-        letter-spacing:2rem;
+        letter-spacing:1rem;
       }
       .fa-instagram:hover{
         color: red !important;
